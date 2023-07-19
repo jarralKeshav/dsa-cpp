@@ -25,10 +25,6 @@ int main()
 {
     ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);
     
-    int arr[]={1,2,3};
-    int n = sizeof(arr)/sizeof(arr[0]);
-    int startIndex =0;
-    solve(arr,n,startIndex);
-    return 0;
+    
 
 }

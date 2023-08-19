@@ -15,7 +15,7 @@ int solve(int row,int col)
     }
  }
  else{
-    
+    cout<<"hello world";
  }
  return value;
  
